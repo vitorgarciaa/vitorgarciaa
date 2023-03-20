@@ -4,7 +4,7 @@
 
 ![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
 
-- 🔭 I'm currently working on Gazin <Tech> as a systems analyst
+- 🔭 I'm currently working on Gazin Tech as a systems analyst
 - 📚 I am currently finishing my degree in systems
 - 👾 I like to play escape from tarkooooov
 
