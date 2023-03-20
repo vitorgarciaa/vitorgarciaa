@@ -1,16 +1,14 @@
-### Hi there 👋
+### Priviet!! I am the Vitor 👋
 
-<!--
-**VitorGarcia-Collab/VitorGarcia-Collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Gazin <Tech>
+  
+- 🌱- I am currently finishing my degree in systems
+  
+- 💬 Ask me about anything
+  
+- 📫 How to reach me: 
+  Instagram : vitor_lgarcia
+  Email: lvitor2424@gmail.com
+  
+- ⚡ Fun fact: Nice Player in Tarkooooov
