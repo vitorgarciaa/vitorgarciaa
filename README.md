@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on Gazin Tech as a systems analyst
 - 📚 I am currently finishing my degree in systems
-- 👾 I like to play escape from tarkooooov
+- 👾 I'm also e-sports in my spare time hahaha
 
           
 ## Contacts:
